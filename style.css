@@ -1,6 +1,6 @@
 .rosa{
 	background-color: #ee3e64;
-	position: static;
+	position: absolute;
 	width: 400px;
 	height: 400px;
 	
@@ -11,13 +11,13 @@
 	position: relative;
 	width: 200px;
 	height: 200px;
-	left: 100px;	
-	top: 100px;
+	left: 100px;
+
 
 }
 .yellow{
 	background-color: yellow;
-	position: absolute;
+	position: static;
 	width: 100px;
 	height: 100px;
 
